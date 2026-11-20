@@ -1,6 +1,6 @@
-<!-- Animated banner: file banner.svg must be in the repo root -->
+<!-- Banner placeholder (works without any upload). To use the gear banner: drag banner.gif into the GitHub editor here, then delete this block. -->
 <p align="center">
-  <img src="banner.svg" alt="Prashant Ippar" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=3000&pause=1500&color=FFFFFF&background=0F2027&center=true&vCenter=true&repeat=false&width=900&height=130&lines=%E2%9A%99%EF%B8%8F+PRASHANT+IPPAR+%E2%9A%99%EF%B8%8F" alt="Prashant Ippar" width="100%"/>
 </p>
 
 <h1 align="center">Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="" width="40" height="40" align="center"/>, I'm Prashant Ippar</h1>
