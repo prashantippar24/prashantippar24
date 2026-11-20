@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=F7B731&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Shop+floor+%E2%9E%9C+Design+%E2%9E%9C+Process+Planning;%F0%9F%8F%AD+Building+the+smart+factory+one+process+at+a+time;%F0%9F%A4%9D+Always+open+to+connect+and+collaborate" alt="facts tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Shop+floor+%E2%9E%9C+Design+%E2%9E%9C+Process+Planning;%F0%9F%8F%AD+Building+the+smart+factory+one+process+at+a+time;%F0%9F%A4%9D+Always+open+to+connect+and+collaborate" alt="facts tagline"/>
 </p>
 
 ---
