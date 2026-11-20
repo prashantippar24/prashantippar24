@@ -1,21 +1,12 @@
-<!-- ============================================================
-  HOW TO USE
-  1. On GitHub create a NEW public repo named EXACTLY your username
-     (example: github.com/<username>/<username>)
-  2. Put this file in it as README.md
-  3. Replace every  <<< ... >>>  and  prashantippar24
-  4. For the snake animation, see the bottom of this file
-============================================================ -->
-
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashant%20Ippar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HR%20%26%20Administration%20Professional&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Prashant%20Ippar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Process%20Planning%20%26%20Development%20%7C%20Manufacturing%20Technology%20%26%20Digitalization&descAlignY=60&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Ippar;HR+%26+Administration+Professional;HR+%26+IR+%7C+Nashik%2C+India;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Ippar;Process+Planning+%26+Development+Engineer;Manufacturing+Technology+%26+Digitalization;Industrial+AI+%26+Machine+Vision;Industrial+Automation+%7C+Tool+%26+Die+Design;BIW+Tooling+%7C+CATIA+%7C+Creo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,22 +23,70 @@
 ## 👨‍💻 About Me
 
 ```text
-👋 Hello! I'm Prashant Ippar
-💼 Manager - HR & Administration at Fibmold Packaging
-🎓 Post-graduate in HR & IR (NML MILS) | MA (Arts)
-🏭 Previously at LyondellBasell and Huhtamaki
-📍 Based in: Nashik, Maharashtra, India
-🌱 Currently learning: <<< tech >>>
+👋 Hello! I'm Prashant Ippar (He/Him)
+⚙️  Process Planning & Development | Manufacturing Technology & Digitalization
+🤖 Industrial AI & Machine Vision | Industrial Automation
+🛠️  Tool & Die Design | BIW Tooling | CATIA | Creo
+🚗 Worked on Bajaj Auto – RE60 and Tata Motors – ALTROZ
+🏭 Currently at Bosch Chassis Systems
+📍 Based in: Pune / Pimpri-Chinchwad, Maharashtra, India
 ```
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Expertise
 
-<!-- Add skill icons here later from https://skillicons.dev later -->
-- Human Resources & Industrial Relations
-- HR & Administration
-- <<< more skills from LinkedIn >>>
+<p align="center">
+  <img src="https://img.shields.io/badge/Process_Planning-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manufacturing_Technology-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digitalization-203a43?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Industrial_AI-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Vision-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Industrial_Automation-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tool_%26_Die_Design-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BIW_Tooling-2c5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Creo-E4572E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer--Aided_Design_(CAD)-444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cognex_VisionPro-FFD600?style=for-the-badge&labelColor=FFD600&color=FFD600&logoColor=black"/>
+</p>
+
+---
+
+## 💼 Experience
+
+**Process Planning & Development MFP** — *Bosch Chassis Systems* · Full-time
+`Oct 2023 – Present` · Pune District, Maharashtra · On-site
+
+**Design Engineer** — *Tata Motors* · Full-time
+`Jun 2020 – Jan 2023` · Pimpri-Chinchwad, Pune, Maharashtra
+Skills: Computer-Aided Design (CAD)
+
+**Trainee** — *Bajaj Auto Ltd* · Full-time
+`Sep 2018 – Jan 2020` · Aurangabad, Maharashtra · On-site
+- Managed PM, breakdown, spares, logistics & automation in the 4W press shop
+- Executed die offloading to vendors with zero quality complaints
+
+---
+
+## 🎓 Education
+
+| Institute | Qualification | Duration | Grade |
+|---|---|---|---|
+| **Vishwakarma Institute of Technology** | Bachelor of Technology, Mechanical Engineering | 2020 – Mar 2023 | 9.4 |
+| **Government Polytechnic Nashik** | Diploma in Mechanical | — | 85% |
+| **Government ITI, Jalgaon** | Tool and Die Maker (Engineering) | — | 92% |
+| **NCTVT** (National Council of Training in Vocational Trades) | Training | — | — |
+
+---
+
+## 🏆 Licenses & Certifications
+
+- **Vision Basics – Cognex VisionPro** — Cognex Corporation · Sep 2025
+  Learned machine vision basics and worked on VisionPro tools
+- **BPS Basic Training-B** — Bosch India · Jun 2025 · Credential ID: `BPSM-SYS-321`
+  Bosch Production System
+- **Industrial Engineering: Bosch Standard Time Data Norm N62C-S** — Bosch India · Nov 2025 · Credential ID: `BPSM-IET-312`
 
 ---
 
@@ -61,24 +100,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantippar24&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 💼 Experience
-
-- **Manager - HR & Administration**, Fibmold Packaging — Nashik *(current)*
-- **LyondellBasell** — <<< role & years >>>
-- **Huhtamaki / Huhtamaki India** — <<< role & years >>>
-
-## 🎓 Education
-
-- **NML MILS** — 2-year program in HR & IR (2008 – 2010)
-- **Master of Arts (Arts)**, KRT Arts, BH Commerce and AM Science (KTHM) College, Nashik (2006 – 2008)
-
-## 🏆 Certifications & Achievements
-
-- <<< Certification 1 >>>
-- <<< Achievement 1 >>>
 
 ---
 
@@ -122,7 +143,6 @@ Then Actions tab > "Generate Snake" > Run workflow.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:<<< your-email >>>"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/prashantippar24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
