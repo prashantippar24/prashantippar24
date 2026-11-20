@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantippar24&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="views"/>
   <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/github/followers/prashantippar24?label=Followers&style=for-the-badge&logo=github&color=203a43"/>
 </p>
