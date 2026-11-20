@@ -45,6 +45,34 @@ I'm a **mechanical engineer** who started on the shop floor as a **Tool & Die Ma
 
 ---
 
+## 🎯 Focus Areas
+
+<table>
+<tr>
+<td align="center" width="33%">⚙️<br/><b>Process Planning & Development</b><br/><sub>Planning manufacturing processes at Bosch Chassis Systems</sub></td>
+<td align="center" width="33%">🏭<br/><b>Manufacturing Technology & Digitalization</b><br/><sub>Smarter, connected manufacturing</sub></td>
+<td align="center" width="33%">👁️<br/><b>Industrial AI & Machine Vision</b><br/><sub>Cognex VisionPro certified learner</sub></td>
+</tr>
+<tr>
+<td align="center">🔧<br/><b>Industrial Automation</b><br/><sub>Press shop automation experience</sub></td>
+<td align="center">🛠️<br/><b>Tool & Die Design</b><br/><sub>From ITI Tool & Die Maker to design</sub></td>
+<td align="center">🚘<br/><b>BIW Tooling & CAD</b><br/><sub>CATIA · Creo</sub></td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently
+
+| | |
+|---|---|
+| 🔭 **Working at** | Bosch Chassis Systems, Process Planning & Development |
+| 📚 **Learning** | Machine vision (Cognex VisionPro), Bosch Production System, time data norms |
+| 💬 **Ask me about** | Process planning, tool & die design, BIW tooling, CATIA / Creo, press shop operations |
+| 🤝 **Looking to** | Connect with engineers in manufacturing, automation and industrial AI |
+
+---
+
 ## 🧰 Skills
 
 <p align="center">
@@ -81,6 +109,25 @@ I'm a **mechanical engineer** who started on the shop floor as a **Tool & Die Ma
 
 ---
 
+## 🚀 Career Journey
+
+```mermaid
+flowchart LR
+    A["🔧 ITI<br/>Tool & Die Maker<br/>Jalgaon"] --> B["📐 Diploma<br/>Mechanical<br/>Govt. Polytechnic Nashik"]
+    B --> C["🏭 Trainee<br/>Bajaj Auto<br/>2018 – 2020"]
+    C --> D["🚗 Design Engineer<br/>Tata Motors<br/>2020 – 2023"]
+    D --> E["⚙️ Process Planning & Development<br/>Bosch Chassis Systems<br/>2023 – Present"]
+    F["🎓 B.Tech Mechanical<br/>VIT · 2020 – 2023"] -.-> D
+    style A fill:#203a43,color:#fff,stroke:#00d9ff
+    style B fill:#203a43,color:#fff,stroke:#00d9ff
+    style C fill:#2c5364,color:#fff,stroke:#00d9ff
+    style D fill:#2c5364,color:#fff,stroke:#00d9ff
+    style E fill:#0A66C2,color:#fff,stroke:#00d9ff
+    style F fill:#0f2027,color:#fff,stroke:#F7B731
+```
+
+---
+
 ## 🎓 Education
 
 | 📅 Duration | 🎓 Qualification | 🏫 Institute |
@@ -100,16 +147,7 @@ I'm a **mechanical engineer** who started on the shop floor as a **Tool & Die Ma
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prashantippar24&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantippar24&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantippar24&theme=tokyonight&hide_border=true" />
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/output/github-snake.svg" alt="snake animation" />
@@ -142,6 +180,10 @@ jobs:
 
 Then Actions tab > "Generate Snake" > Run workflow.
 -->
+
+---
+
+<h3 align="center">⚙️ Precision in process. Curiosity in technology. ⚙️</h3>
 
 ---
 
