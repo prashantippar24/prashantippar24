@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/banner.svg" alt="Prashant Ippar" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prashant%20Ippar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Process%20Planning%20%26%20Development%20%7C%20Manufacturing%20Technology%20%26%20Digitalization&descAlignY=58&descSize=17" alt="Prashant Ippar" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant Ippar</h1>
