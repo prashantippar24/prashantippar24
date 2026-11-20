@@ -150,44 +150,6 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/output/github-snake.svg" alt="snake animation" />
-</p>
-
-<!--
-SNAKE SETUP: create file  .github/workflows/snake.yml  with:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
----
-## 📫 Connect With Me
-
-<p align="center"> <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://github.com/prashantippar24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> </p> <p align="center"><b>💡 Precision in process. Curiosity in technology.</b></p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/> </p>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
