@@ -20,52 +20,23 @@
 
 ## ⚡ Quick Facts
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<h3>👤</h3>
-<b>Name</b><br/>
-<sub>Prashant Ippar</sub>
-</td>
-<td align="center" width="25%">
-<h3>🏭</h3>
-<b>Currently At</b><br/>
-<sub>Bosch Chassis Systems</sub>
-</td>
-<td align="center" width="25%">
-<h3>⚙️</h3>
-<b>Role</b><br/>
-<sub>Process Planning & Development</sub>
-</td>
-<td align="center" width="25%">
-<h3>📍</h3>
-<b>Location</b><br/>
-<sub>Pune / Pimpri-Chinchwad, India 🇮🇳</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>🎓</h3>
-<b>Background</b><br/>
-<sub>Tool & Die Maker → Diploma → B.Tech Mechanical</sub>
-</td>
-<td align="center">
-<h3>🚗</h3>
-<b>Worked On</b><br/>
-<sub>Bajaj Auto RE60 · Tata Motors ALTROZ</sub>
-</td>
-<td align="center">
-<h3>🤖</h3>
-<b>Focus</b><br/>
-<sub>Digitalization · Industrial AI · Machine Vision</sub>
-</td>
-<td align="center">
-<h3>🧰</h3>
-<b>Tools</b><br/>
-<sub>CATIA · Creo · Cognex VisionPro</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/👤_NAME-Prashant_Ippar-0f2027?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🏭_COMPANY-Bosch_Chassis_Systems-E20015?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/⚙️_ROLE-Process_Planning_%26_Development-0A66C2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/📍_LOCATION-Pune_and_Pimpri--Chinchwad,_India-2c5364?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🎓_BACKGROUND-Tool_%26_Die_Maker_to_B.Tech_Mechanical-203a43?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🚗_WORKED_ON-Bajaj_RE60_and_Tata_ALTROZ-2c5364?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🤖_FOCUS-Digitalization,_Industrial_AI_%26_Machine_Vision-0A66C2?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🧰_TOOLS-CATIA,_Creo,_Cognex_VisionPro-005386?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=F7B731&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Shop+floor+%E2%9E%9C+Design+%E2%9E%9C+Process+Planning;%F0%9F%8F%AD+Building+the+smart+factory+one+process+at+a+time;%F0%9F%A4%9D+Always+open+to+connect+and+collaborate" alt="facts tagline"/>
