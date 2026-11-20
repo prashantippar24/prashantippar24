@@ -160,9 +160,11 @@ flowchart LR
 
 <br/><br/>
 
-**🏭 From shop floor to smart factory, one process at a time.
-⚙️ Tool & Die to Industrial AI. Always building.
-🔧 Precision on the shop floor. Intelligence in the process.**
+**🏭 From shop floor to smart factory, one process at a time.**
+
+**⚙️ Tool & Die to Industrial AI. Always building.**
+
+**🔧 Precision on the shop floor. Intelligence in the process.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
