@@ -1,6 +1,6 @@
 <!-- ===== Animated banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prashant%20Ippar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Process%20Planning%20%26%20Development%20%7C%20Manufacturing%20Technology%20%26%20Digitalization&descAlignY=58&descSize=17" alt="Prashant Ippar banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/banner.svg" alt="Prashant Ippar banner" width="100%"/>
 </p>
 
 <!-- ===== Typing animation ===== -->
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/followers/prashantippar24?label=Followers&style=for-the-badge&logo=github&color=203a43"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -47,7 +47,7 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 🛠️ Skills & Expertise
 
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Cognex_VisionPro-F7B731?style=for-the-badge&logoColor=black"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 🚀 Career Journey
 
@@ -88,7 +88,7 @@ flowchart LR
     style F fill:#0A66C2,color:#fff,stroke:#00d9ff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 💼 Experience
 
@@ -128,7 +128,7 @@ Bajaj Auto Ltd · Full-time
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 🎓 Education
 
@@ -139,7 +139,7 @@ Bajaj Auto Ltd · Full-time
 | **Government ITI, Jalgaon** | Tool and Die Maker (Engineering) | — |
 | **NCTVT** — National Council of Training in Vocational Trades | Training | — |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 🏆 Licenses & Certifications
 
@@ -149,7 +149,7 @@ Bajaj Auto Ltd · Full-time
 | 🏭 **BPS Basic Training-B** | Bosch India | Jun 2025 | `BPSM-SYS-321` |
 | ⏱️ **Industrial Engineering: Bosch Standard Time Data Norm N62C-S** | Bosch India | Nov 2025 | `BPSM-IET-312` |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -170,7 +170,7 @@ Bajaj Auto Ltd · Full-time
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantippar24&theme=react-dark&hide_border=true&bg_color=0d1117" width="95%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -210,7 +210,7 @@ Then Actions tab > "Generate Snake" > Run workflow.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00d9ff,100:0f2027&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/prashantippar24/prashantippar24/main/divider.svg" width="100%"/>
 
 ## 📫 Let's Connect
 
