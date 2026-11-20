@@ -9,13 +9,13 @@
 
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashant%20Ippar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3C%3C%3C%20Your%20Title%20from%20LinkedIn%20%3E%3E%3E&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashant%20Ippar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=HR%20%26%20Administration%20Professional&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Ippar;<<<+Your+Role+/+Degree+>>>;<<<+Your+Interest+1+>>>;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Ippar;HR+%26+Administration+Professional;HR+%26+IR+%7C+Nashik%2C+India;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,22 +33,21 @@
 
 ```text
 👋 Hello! I'm Prashant Ippar
-🎓 <<< College / Degree / Year from LinkedIn >>>
-💼 <<< Current role / internship from LinkedIn >>>
-🔭 Currently working on: <<< project >>>
+💼 Manager - HR & Administration at Fibmold Packaging
+🎓 Post-graduate in HR & IR (NML MILS) | MA (Arts)
+🏭 Previously at LyondellBasell and Huhtamaki
+📍 Based in: Nashik, Maharashtra, India
 🌱 Currently learning: <<< tech >>>
-📍 Based in: <<< City, India >>>
-⚡ Fun fact: <<< something about you >>>
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-<!-- Delete icons you don't use. Full list of icon names: https://skillicons.dev -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,mysql,git,github,vscode&perline=6" />
-</p>
+<!-- Add skill icons here later from https://skillicons.dev later -->
+- Human Resources & Industrial Relations
+- HR & Administration
+- <<< more skills from LinkedIn >>>
 
 ---
 
@@ -65,21 +64,16 @@
 
 ---
 
-## 🚀 Projects
+## 💼 Experience
 
-> Projects will be added here once repos are ready.
+- **Manager - HR & Administration**, Fibmold Packaging — Nashik *(current)*
+- **LyondellBasell** — <<< role & years >>>
+- **Huhtamaki / Huhtamaki India** — <<< role & years >>>
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔹 *Coming soon* | <<< short description >>> | <<< stack >>> |
-| 🔹 *Coming soon* | <<< short description >>> | <<< stack >>> |
+## 🎓 Education
 
----
-
-## 🎓 Education & Experience
-
-- **<<< Degree, College >>>** — <<< years >>>
-- **<<< Internship / Job title, Company >>>** — <<< years >>>
+- **NML MILS** — 2-year program in HR & IR (2008 – 2010)
+- **Master of Arts (Arts)**, KRT Arts, BH Commerce and AM Science (KTHM) College, Nashik (2006 – 2008)
 
 ## 🏆 Certifications & Achievements
 
