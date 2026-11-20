@@ -13,6 +13,10 @@
 ## ⚡ Quick Facts
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Shop+floor+%E2%9E%9C+Design+%E2%9E%9C+Process+Planning;%F0%9F%8F%AD+Building+the+smart+factory+one+process+at+a+time;%F0%9F%A4%9D+Always+open+to+connect+and+collaborate" alt="facts tagline"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/👤_NAME-Prashant_Ippar-0f2027?style=for-the-badge"/>
   <br/>
   <img src="https://img.shields.io/badge/🏭_COMPANY-Bosch_Chassis_Systems-E20015?style=for-the-badge"/>
@@ -28,10 +32,6 @@
   <img src="https://img.shields.io/badge/🤖_FOCUS-Digitalization,_Industrial_AI_%26_Machine_Vision-0A66C2?style=for-the-badge"/>
   <br/>
   <img src="https://img.shields.io/badge/🧰_TOOLS-CATIA,_Creo,_Cognex_VisionPro-005386?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Shop+floor+%E2%9E%9C+Design+%E2%9E%9C+Process+Planning;%F0%9F%8F%AD+Building+the+smart+factory+one+process+at+a+time;%F0%9F%A4%9D+Always+open+to+connect+and+collaborate" alt="facts tagline"/>
 </p>
 
 ---
