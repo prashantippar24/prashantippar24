@@ -71,12 +71,12 @@ Skills: Computer-Aided Design (CAD)
 
 ## 🎓 Education
 
-| Institute | Qualification | Duration | Grade |
+| Institute | Qualification | Duration | 
 |---|---|---|---|
-| **Vishwakarma Institute of Technology** | Bachelor of Technology, Mechanical Engineering | 2020 – Mar 2023 | 9.4 |
-| **Government Polytechnic Nashik** | Diploma in Mechanical | — | 85% |
-| **Government ITI, Jalgaon** | Tool and Die Maker (Engineering) | — | 92% |
-| **NCTVT** (National Council of Training in Vocational Trades) | Training | — | — |
+| **Vishwakarma Institute of Technology** | Bachelor of Technology, Mechanical Engineering | 2020 – Mar 2023 | 
+| **Government Polytechnic Nashik** | Diploma in Mechanical | — | 
+| **Government ITI, Jalgaon** | Tool and Die Maker (Engineering) | — | 
+| **NCTVT** (National Council of Training in Vocational Trades) | Training | — | 
 
 ---
 
