@@ -1,23 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashant%20Ippar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Process%20Planning%20%7C%20Manufacturing%20Technology%20%7C%20Industrial%20AI&descSize=18&descAlignY=58" alt="Prashant Ippar header" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9FD9&center=true&vCenter=true&width=760&lines=Process+Planning+%26+Development+Engineer;Manufacturing+Technology+%26+Digitalization;Industrial+AI+%26+Machine+Vision;Tool+%26+Die+Design+%7C+BIW+Tooling+%7C+CATIA+%7C+Creo" alt="Typing animation" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-1f6feb?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🏭_Bosch_Chassis_Systems-E20015?style=for-the-badge" alt="Company"/>
-  <img src="https://img.shields.io/badge/🎓_B.Tech_Mechanical_(VIT)-8957e5?style=for-the-badge" alt="College"/>
-</p>
-
-
-
-
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prashant%20Ippar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Process%20Planning%20%7C%20Manufacturing%20Technology%20%7C%20Industrial%20AI&descSize=18&descAlignY=58" alt="Prashant Ippar header" width="100%"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9FD9&center=true&vCenter=true&width=760&lines=Process+Planning+%26+Development+Engineer;Manufacturing+Technology+%26+Digitalization;Industrial+AI+%26+Machine+Vision;Tool+%26+Die+Design+%7C+BIW+Tooling+%7C+CATIA+%7C+Creo" alt="Typing animation" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-1f6feb?style=for-the-badge" alt="Location"/> <img src="https://img.shields.io/badge/🏭_Bosch_Chassis_Systems-E20015?style=for-the-badge" alt="Company"/> <img src="https://img.shields.io/badge/🎓_B.Tech_Mechanical_(VIT)-8957e5?style=for-the-badge" alt="College"/> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-ippar-42814725a/">
