@@ -133,13 +133,27 @@ flowchart LR
 
 ## 🎓 Education
 
-| 📅 Duration | 🎓 Qualification | 🏫 Institute |
-|---|---|---|
-| 2020 – Mar 2023 | **B.Tech, Mechanical Engineering** | Vishwakarma Institute of Technology |
-| — | **Diploma in Mechanical** | Government Polytechnic Nashik |
-| — | **Tool & Die Maker** | Government ITI, Jalgaon |
-| — | **Training** | NCTVT |
+| 🎓 Qualification | 🏫 Institute |
+|---|---|
+| **B.Tech, Mechanical Engineering** | Vishwakarma Institute of Technology |
+| **Diploma in Mechanical** | Government Polytechnic Nashik |
+| **Tool & Die Maker** | Government ITI, Jalgaon |
+| **Training** | NCTVT |
 
+---
+
+## 🎓 Education
+
+| 🎓 Qualification | 🏫 Institute |
+|---|---|
+| **B.Tech, Mechanical Engineering** | Vishwakarma Institute of Technology |
+| **Diploma in Mechanical** | Government Polytechnic Nashik |
+| **Tool & Die Maker** | Government ITI, Jalgaon |
+| **Training** | NCTVT |
+
+| **B.Tech, Mechanical Engineering** (2020 – Mar 2023) | Vishwakarma Institute of Technology |
+
+---
 ---
 
 ## 🏆 Certifications
