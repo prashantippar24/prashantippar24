@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Prashant%20Ippar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Process%20Planning%20%26%20Development%20%7C%20Manufacturing%20Technology%20%26%20Digitalization&descAlignY=58&descSize=17" alt="Prashant Ippar" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&duration=3000&pause=1500&color=FFFFFF&background=0F2027&center=true&vCenter=true&repeat=false&width=900&height=130&lines=%E2%9A%99%EF%B8%8F+PRASHANT+IPPAR+%E2%9A%99%EF%B8%8F" alt="Prashant Ippar" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant Ippar</h1>
@@ -206,5 +206,5 @@ Then Actions tab > "Generate Snake" > Run workflow.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=110&section=footer&text=Thanks%20for%20visiting%20%F0%9F%91%8B&fontColor=ffffff&fontSize=22&animation=twinkling" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1500&color=00D9FF&background=0F2027&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Thanks+for+visiting+%F0%9F%91%8B" width="100%"/>
 </p>
